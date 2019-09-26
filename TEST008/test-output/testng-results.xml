@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="36730" started-at="2019-09-20T04:58:18Z" finished-at="2019-09-20T04:58:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="36730" started-at="2019-09-20T04:58:18Z" finished-at="2019-09-20T04:58:55Z">
+      <class name="test0008.NewTest002">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:test0008.NewTest002@13deb50e]" name="beforeClass" is-config="true" duration-ms="1" started-at="2019-09-20T10:28:55Z" finished-at="2019-09-20T10:28:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f1()[pri:0, instance:test0008.NewTest002@13deb50e]" name="f1" duration-ms="4" started-at="2019-09-20T10:28:55Z" finished-at="2019-09-20T10:28:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method status="PASS" signature="f4()[pri:0, instance:test0008.NewTest002@13deb50e]" name="f4" duration-ms="4" started-at="2019-09-20T10:28:55Z" finished-at="2019-09-20T10:28:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f4 -->
+        <test-method status="PASS" signature="f2()[pri:0, instance:test0008.NewTest002@13deb50e]" name="f2" duration-ms="5" started-at="2019-09-20T10:28:55Z" finished-at="2019-09-20T10:28:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+        <test-method status="PASS" signature="f3()[pri:0, instance:test0008.NewTest002@13deb50e]" name="f3" duration-ms="4" started-at="2019-09-20T10:28:55Z" finished-at="2019-09-20T10:28:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f3 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:test0008.NewTest002@13deb50e]" name="afterClass" is-config="true" duration-ms="1" started-at="2019-09-20T10:28:55Z" finished-at="2019-09-20T10:28:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- test0008.NewTest002 -->
+      <class name="test0008.NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:test0008.NewTest@4cf777e8]" name="beforeClass" is-config="true" duration-ms="35583" started-at="2019-09-20T10:28:18Z" finished-at="2019-09-20T10:28:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:test0008.NewTest@4cf777e8]" name="f" duration-ms="167" started-at="2019-09-20T10:28:54Z" finished-at="2019-09-20T10:28:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:test0008.NewTest@4cf777e8]" name="afterClass" is-config="true" duration-ms="905" started-at="2019-09-20T10:28:54Z" finished-at="2019-09-20T10:28:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- test0008.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
